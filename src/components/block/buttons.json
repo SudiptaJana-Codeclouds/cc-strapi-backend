@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_block_buttons",
+  "info": {
+    "displayName": "buttons"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "codeclouds"
+      ]
+    }
+  }
+}
