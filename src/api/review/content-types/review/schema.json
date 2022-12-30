@@ -34,6 +34,12 @@
     },
     "platform": {
       "type": "string"
+    },
+    "star": {
+      "type": "decimal",
+      "default": 5,
+      "max": 5,
+      "min": 0
     }
   }
 }

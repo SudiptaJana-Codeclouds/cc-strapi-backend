@@ -6,10 +6,10 @@
   },
   "options": {},
   "attributes": {
-    "metaTitle": {
+    "meta_title": {
       "type": "string"
     },
-    "metaDescription": {
+    "meta_description": {
       "type": "text"
     },
     "meta": {
@@ -18,18 +18,15 @@
       "repeatable": true,
       "component": "seo.meta"
     },
-    "preventIndexing": {
+    "prevent_indexing": {
       "type": "boolean"
     },
-    "structuredData": {
+    "structured_data": {
       "type": "json"
     },
-    "metaImage": {
+    "meta_image": {
       "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
+        "images"
       ],
       "type": "media",
       "multiple": false

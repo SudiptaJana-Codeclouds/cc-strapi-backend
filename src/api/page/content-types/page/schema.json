@@ -23,12 +23,6 @@
       "repeatable": false,
       "component": "seo.seo"
     },
-    "block": {
-      "type": "dynamiczone",
-      "components": [
-        "block.hero"
-      ]
-    },
     "publish_at": {
       "type": "datetime"
     }
